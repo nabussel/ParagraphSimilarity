@@ -1,4 +1,4 @@
-# ✂Paragraph Similarity with Shingling, MinHash & LSH
+# Paragraph Similarity with Shingling, MinHash & LSH
 
 This project finds the **most similar paragraph pairs** in a text file using a classic **locality-sensitive hashing (LSH)** pipeline:
 
